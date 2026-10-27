@@ -1,0 +1,15 @@
+潮汐疾航 V7 声音来源
+原创：三首 116 BPM、32 小节明亮循环配乐（拨弦和弦、木琴旋律、贝斯、轻打击乐），拾取铃音、木质碰撞和引擎合成。生成源码：prepare-audio.py。
+哭声：akoecreative，Woman crying，CC0 1.0。使用公开试听版，截短、调速、淡入淡出。
+https://freesound.org/people/akoecreative/sounds/790620/
+https://cdn.freesound.org/previews/790/790620_16437131-hq.mp3
+欢呼：AuraVoice / Nocturnal_Vanguard，Cheers，CC0 1.0。截短并降低音量。
+https://opengameart.org/content/cheers-0
+https://opengameart.org/sites/default/files/cheers_1.ogg
+水花和水流：rubberduck，40 CC0 water / splash / slime SFX，CC0 1.0。选取 splash_03、splash_07、splash_10、loop_water_01 并压缩、淡入淡出。
+https://opengameart.org/content/40-cc0-water-splash-slime-sfx
+https://opengameart.org/sites/default/files/water-splash-slime-sfx.zip
+CC0 许可：https://creativecommons.org/publicdomain/zero/1.0/
+所有音频内嵌，不需要运行时连接音频服务。没有使用第三方 API 密钥。
+
+Seasonal original scores: Pumpkin Post Waltz, Lantern Market, Ghostlight Drift, Moonlit Manor Dance. Halloween impact voices are gentle locally synthesized boo chirps.

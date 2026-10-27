@@ -1,0 +1,4 @@
+Pumpkin Post: Moonlight Delivery
+Original ink-storybook courier and skiff: user-owned prior Blender production assets.
+Additional boats and character rigs: Kenney CC0 Watercraft, Animated Characters and Pirate kits, adapted in the original project; source licenses included in licenses/.
+Seasonal hat, bat ornaments, pumpkins, candy, brooms, ghosts, architecture, delivery pier and UI: newly authored for this adaptation in code. No new external 3D models were downloaded for this release.
